@@ -8,3 +8,9 @@ Bare Metal Solution: Hardware for specialized workloads link
 Preemptible VMs: Short-lived compute instances link page_facing_up
 Shielded VMs: Hardened VMs link page_facing_up
 Sole-tenant nodes: Dedicated physical servers 
+
+Storage
+Cloud Filestore: Managed NFS server link page_facing_up
+Cloud Storage: Multi-class multi-region object storagelink page_facing_up
+Persistent Disk: Block storage for VMs link page_facing_up
+Local SSD: VM locally attached SSDs link page_facing_up
