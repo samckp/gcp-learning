@@ -23,3 +23,4 @@ Cloud Firestore: Serverless NoSQL document DB link page_facing_up<BR>
 Cloud Memorystore: Managed Redis and Memcached link page_facing_up<BR>
 Cloud Spanner: Horizontally scalable relational DB link page_facing_up<BR>
 Cloud SQL: Managed MySQL, PostgreSQL, SQL Server<BR>
+<BR>
