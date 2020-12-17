@@ -24,3 +24,16 @@ Cloud Memorystore: Managed Redis and Memcached link page_facing_up<BR>
 Cloud Spanner: Horizontally scalable relational DB link page_facing_up<BR>
 Cloud SQL: Managed MySQL, PostgreSQL, SQL Server<BR>
 <BR>
+<B>Data and Analytics</B><BR>
+BigQuery: Data warehouse/analytics link page_facing_up<BR>
+BigQuery BI Engine: In-memory analytics engine page_facing_up<BR>
+BigQuery ML: BigQuery model training/serving page_facing_up<BR>
+Cloud Composer: Managed workflow orchestration service link page_facing_up<BR>
+Cloud Data Fusion: Graphically manage data pipelines link page_facing_up<BR>
+Cloud Dataflow: Stream/batch data processing link page_facing_up<BR>
+Cloud Dataprep: Visual data wrangling link page_facing_up<BR>
+Cloud Dataproc: Managed Spark and Hadoop link page_facing_up<BR>
+Cloud Pub/Sub: Global real-time messaging link page_facing_up<BR>
+Data Catalog: Metadata management service link page_facing_up<BR>
+Data Studio: Collaborative data exploration/dashboarding link page_facing_up<BR>
+Looker: Enterprise BI and Analytics<BR>
