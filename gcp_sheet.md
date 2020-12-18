@@ -35,5 +35,18 @@ Cloud Dataprep: Visual data wrangling link page_facing_up<BR>
 Cloud Dataproc: Managed Spark and Hadoop link page_facing_up<BR>
 Cloud Pub/Sub: Global real-time messaging link page_facing_up<BR>
 Data Catalog: Metadata management service link page_facing_up<BR>
-Data Studio: Collaborative data exploration/dashboarding link page_facing_up<BR>
 Looker: Enterprise BI and Analytics<BR>
+Data Studio: Collaborative data exploration/dashboarding link page_facing_up<BR>
+
+<B>Hybrid and Multi-cloud</B><BR>
+Anthos: Enterprise hybrid/multi-cloud platform link page_facing_up<BR>
+Anthos GKE: Hybrid/on-prem Kubernetes Engine link page_facing_up<BR>
+Anthos Config Management:Policy and security automation link page_facing_up<BR>
+Anthos Service Mesh: Managed service mesh (Istio) link page_facing_up<BR>
+Cloud Run for Anthos: Serverless development for Anthos link page_facing_up<BR>
+Google Cloud Marketplace for Anthos: Pre-configured containerized apps link page_facing_up<BR>
+Migrate for Anthos: Migrate VMs to Kubernetes Engine link page_facing_up<BR>
+Operations: Monitoring, logging, troubleshooting link page_facing_up<BR>
+Cloud Build: Continuous integration/delivery platform link page_facing_up<BR>
+Traffic Director: Service mesh traffic management link page_facing_up<BR>
+Apigee API Management: API management, development, security<BR>
