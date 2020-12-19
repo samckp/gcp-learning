@@ -50,3 +50,34 @@ Operations: Monitoring, logging, troubleshooting link page_facing_up<BR>
 Cloud Build: Continuous integration/delivery platform link page_facing_up<BR>
 Traffic Director: Service mesh traffic management link page_facing_up<BR>
 Apigee API Management: API management, development, security<BR>
+
+<B>AI/ML</B><BR>
+AI Hub: Hosted AI component sharing link page_facing_up<BR>
+AI Platform Data Labeling: Data labeling by humans page_facing_up<BR>
+AI Platform Deep Learning VMs: Preconfigured VMs for deep learning link page_facing_up<BR>
+AI Platform Deep Learning Containers: Preconfigured containers for deep learning link page_facing_up<BR>
+AI Platform Notebooks: Managed JupyterLab notebook instances linkpage_facing_up<BR>
+AI Platform Pipelines: Hosted ML workflowslink<BR>
+AI Platform Predictions: Autoscaled model serving page_facing_up<BR>
+AI Platform Training: Distributed AI training page_facing_up<BR>
+AI Platform: Managed platform for ML link<BR>
+AutoML Natural Language: Custom text models page_facing_up<BR>
+AutoML Tables: Custom structured data models link page_facing_up<BR>
+AutoML Translation: Custom domain-specific translation link page_facing_up<BR>
+AutoML Video Intelligence: Custom video annotation models link page_facing_up<BR>
+AutoML Vision: Custom image models link page_facing_up<BR>
+Cloud Natural Language API: Text parsing and analysis link page_facing_up<BR>
+Cloud Speech-To-Text API: Convert audio to text link page_facing_up<BR>
+Cloud Talent Solutions API: Job search with ML link page_facing_up<BR>
+Cloud Text-To-Speech API: Convert text to audio link page_facing_up<BR>
+Cloud TPU: Hardware acceleration for ML link page_facing_up<BR>
+Cloud Translation API: Language detection and translation link page_facing_up<BR>
+Cloud Video Intelligence API: Scene-level video annotation link page_facing_up<BR>
+Cloud Vision API: Image recognition and classification link page_facing_up<BR>
+Contact Center AI: AI in your contact centerlink page_facing_up<BR>
+Dialogflow: Create conversational interfaces link page_facing_up<BR>
+Document AI: Analyze, classify, search documents link page_facing_up<BR>
+Explainable AI: Understand ML model predictions link page_facing_up<BR>
+Recommendations AI: Create custom recommendations link page_facing_up<BR>
+Vision Product Search: Visual search for products<BR>
+
