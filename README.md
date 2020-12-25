@@ -1,3 +1,4 @@
 # gcp-learning
 
-1. List of Cloud shell commands
+1. Componenets of GCP Compute
+2. Componenets of GCP Database
